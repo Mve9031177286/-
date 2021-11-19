@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Opposite Table</string>
+    <string name="table">ТАБЛИЦА УМНОЖЕНИЯ</string>
+    <string name="opp_table">ОБРАТНЫЙ ТЕСТ</string>
+    <string name="enter">СЛЕДУЮЩИЙ ПРИМЕР</string>
+    <string name="start">СТАРТОВАЯ СТРАНИЦА</string>
+</resources>
