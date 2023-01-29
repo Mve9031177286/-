@@ -12,7 +12,6 @@ There is a count of the number of examples, correct and incorrect answers.
 The product appears in the second tab - and you need to choose which multipliers will lead to this result.
 An excellent simulator for children, an assistant in the study of the multiplication table.
 
-
-https://youtu.be/MLI0U0RbJZk
-
 https://youtube.com/shorts/MLI0U0RbJZk?feature=share
+
+https://youtube.com/shorts/0I8msP3cP38?feature=share
