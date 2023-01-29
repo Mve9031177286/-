@@ -14,3 +14,5 @@ An excellent simulator for children, an assistant in the study of the multiplica
 
 
 https://youtu.be/MLI0U0RbJZk
+
+https://youtube.com/shorts/MLI0U0RbJZk?feature=share
